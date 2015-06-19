@@ -5,5 +5,5 @@ Fun Facts in Swift
 
 ###Technologies used
 
-XCode
-Swift
+- XCode
+- Swift
