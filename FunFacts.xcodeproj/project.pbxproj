@@ -36,6 +36,7 @@
 		98883E0A1B3574A1005E04E1 /* FunFactsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FunFactsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		98883E0F1B3574A1005E04E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		98883E101B3574A1005E04E1 /* FunFactsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunFactsTests.swift; sourceTree = "<group>"; };
+		98883E1A1B357709005E04E1 /* Scratchpad.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = Scratchpad.playground; path = FunFacts/Scratchpad.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +91,7 @@
 		98883DF81B3574A1005E04E1 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				98883E1B1B357712005E04E1 /* Playgrounds */,
 				98883DF91B3574A1005E04E1 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -110,6 +112,15 @@
 				98883E0F1B3574A1005E04E1 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		98883E1B1B357712005E04E1 /* Playgrounds */ = {
+			isa = PBXGroup;
+			children = (
+				98883E1A1B357709005E04E1 /* Scratchpad.playground */,
+			);
+			name = Playgrounds;
+			path = ..;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
