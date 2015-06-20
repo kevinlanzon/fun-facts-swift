@@ -13,6 +13,7 @@
 		98883E021B3574A1005E04E1 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 98883E011B3574A1005E04E1 /* Images.xcassets */; };
 		98883E051B3574A1005E04E1 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 98883E031B3574A1005E04E1 /* LaunchScreen.xib */; };
 		98883E111B3574A1005E04E1 /* FunFactsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98883E101B3574A1005E04E1 /* FunFactsTests.swift */; };
+		98883E1D1B3590EA005E04E1 /* FactBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98883E1C1B3590EA005E04E1 /* FactBook.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,6 +38,7 @@
 		98883E0F1B3574A1005E04E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		98883E101B3574A1005E04E1 /* FunFactsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunFactsTests.swift; sourceTree = "<group>"; };
 		98883E1A1B357709005E04E1 /* Scratchpad.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = Scratchpad.playground; path = FunFacts/Scratchpad.playground; sourceTree = "<group>"; };
+		98883E1C1B3590EA005E04E1 /* FactBook.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FactBook.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			isa = PBXGroup;
 			children = (
 				98883DFA1B3574A1005E04E1 /* AppDelegate.swift */,
+				98883E1C1B3590EA005E04E1 /* FactBook.swift */,
 				98883DFC1B3574A1005E04E1 /* ViewController.swift */,
 				98883DFE1B3574A1005E04E1 /* Main.storyboard */,
 				98883E011B3574A1005E04E1 /* Images.xcassets */,
@@ -223,6 +226,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				98883E1D1B3590EA005E04E1 /* FactBook.swift in Sources */,
 				98883DFD1B3574A1005E04E1 /* ViewController.swift in Sources */,
 				98883DFB1B3574A1005E04E1 /* AppDelegate.swift in Sources */,
 			);
