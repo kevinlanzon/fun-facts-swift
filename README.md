@@ -18,6 +18,7 @@ Technologies used
 
 - Xcode
 - Swift
+- Photoshop (for the Readme screenshot)
 
 To do
 ------
