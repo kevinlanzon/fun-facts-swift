@@ -29,7 +29,7 @@ How to run
 ---------
 You will need to install Xcode
 ```sh
-git clone git@github.com:kevinlanzon/fun-facts-swift.git
-cd fun-fact-swift
+$ git clone git@github.com:kevinlanzon/fun-facts-swift.git
+$ cd fun-fact-swift
 Run Xcode and click the 'Play' button to view the app in the IOS simulator
 ```
