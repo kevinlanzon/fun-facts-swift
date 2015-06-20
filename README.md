@@ -20,11 +20,6 @@ Technologies used
 - Swift
 - Photoshop (for the Readme screenshot)
 
-To do
-------
-- Pull in facts from a third party source
-- Write tests
-
 How to run
 ---------
 You will need to install Xcode
@@ -33,3 +28,9 @@ $ git clone git@github.com:kevinlanzon/fun-facts-swift.git
 $ cd fun-fact-swift
 Run Xcode and click the 'Play' button to view the app in the IOS simulator
 ```
+To do
+------
+- Pull in facts from a third party source
+- Write tests
+- Deploy to the App Store
+
