@@ -7,6 +7,12 @@ The Fun Facts app teaches how to use the Swift language and the Xcode and Interf
 
 Currently there are 10 fun facts hardcoded into an array and the app is untested as this was just a learning exercise on how to set up a Swift project and learn how to use Xcode.
 
+Screenshot
+---
+<div align="center">
+        <img width="100%" src="funfacts-mock-up.jpg">
+</div>
+
 Technologies used
 -----------
 
