@@ -14,6 +14,7 @@
 		98883E051B3574A1005E04E1 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 98883E031B3574A1005E04E1 /* LaunchScreen.xib */; };
 		98883E111B3574A1005E04E1 /* FunFactsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98883E101B3574A1005E04E1 /* FunFactsTests.swift */; };
 		98883E1D1B3590EA005E04E1 /* FactBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98883E1C1B3590EA005E04E1 /* FactBook.swift */; };
+		98883E1F1B35A561005E04E1 /* ColorWheel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98883E1E1B35A561005E04E1 /* ColorWheel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,6 +40,7 @@
 		98883E101B3574A1005E04E1 /* FunFactsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunFactsTests.swift; sourceTree = "<group>"; };
 		98883E1A1B357709005E04E1 /* Scratchpad.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = Scratchpad.playground; path = FunFacts/Scratchpad.playground; sourceTree = "<group>"; };
 		98883E1C1B3590EA005E04E1 /* FactBook.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FactBook.swift; sourceTree = "<group>"; };
+		98883E1E1B35A561005E04E1 /* ColorWheel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorWheel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 		98883DF81B3574A1005E04E1 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				98883E1E1B35A561005E04E1 /* ColorWheel.swift */,
 				98883E1B1B357712005E04E1 /* Playgrounds */,
 				98883DF91B3574A1005E04E1 /* Info.plist */,
 			);
@@ -229,6 +232,7 @@
 				98883E1D1B3590EA005E04E1 /* FactBook.swift in Sources */,
 				98883DFD1B3574A1005E04E1 /* ViewController.swift in Sources */,
 				98883DFB1B3574A1005E04E1 /* AppDelegate.swift in Sources */,
+				98883E1F1B35A561005E04E1 /* ColorWheel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
