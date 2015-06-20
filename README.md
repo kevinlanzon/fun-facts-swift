@@ -15,3 +15,11 @@ Currently there are 10 fun facts hardcoded into an array and the app is untested
 ###To do
 - Pull in facts from a third party source
 - Write tests
+
+###How to run
+You will need to install Xcode
+```sh
+git clone git@github.com:kevinlanzon/fun-facts-swift.git
+cd fun-fact-swift
+Run Xcode and click the 'Play' button to view the app in the IOS simulator
+```
