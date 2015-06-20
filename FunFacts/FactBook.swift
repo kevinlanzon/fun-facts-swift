@@ -22,4 +22,12 @@ struct FactBook {
         "A group of twelve or more cows is called a flink.",
         "You can tell the sex of a horse by its teeth. Most males have 40, females have 36."
     ]
+    
+    func randomFact() -> String {
+        var unsignedArrayCount = UInt32(factsArray.count)
+        var unsignedRandomNumber = arc4random_uniform(unsignedArrayCount)
+        var randomNumber = Int(unsignedRandomNumber)
+        
+        return factsArray[randomNumber]
+    }
 }

@@ -22,6 +22,7 @@ fruitsArray
 var optionalString: String? = "hello"
 optionalString!
 
+//Random Number Generator
 
-
+var randomNumber = Int(arc4random_uniform(10))
 
